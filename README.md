@@ -22,4 +22,4 @@ ps aux | grep aeg
 ````
 我的节点供应站
 [星际云网络加速](www.xjycloud.xyz)
-<div class="[我的博客]>"(https://siemenstutorials.github.io/)</div>
+<strong>[我的博客](https://siemenstutorials.github.io/)</strong>
